@@ -1,0 +1,6 @@
+D:\dev\win\DirSync\DirSync\bin\Release\DirSync.exe
+D:\dev\win\DirSync\DirSync\bin\Release\DirSync.pdb
+D:\dev\win\DirSync\DirSync\obj\x86\Release\ResolveAssemblyReference.cache
+D:\dev\win\DirSync\DirSync\obj\x86\Release\DirSync.exe
+D:\dev\win\DirSync\DirSync\obj\x86\Release\DirSync.pdb
+D:\dev\win\DirSync\DirSync\bin\Release\DirSync.exe.config
